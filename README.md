@@ -8,8 +8,10 @@ __Note: This sample is constructed with PHP 7.2.18__
 
 PHP usually hosted in a local / remote server, and accessed using web browser as a web application. Unlike that, this project is using local PHP interpreter to view the output on local console on VSC without using any local or remote server. It easier & minimizing configuration since this is only for development purpose.
 
-Before starting, go into
-- <code>.vscode</code> folder and open <code>launch.json</code> file
+Before starting, 
+- Download as ZIP and extract
+- In VSC, File > Open Folder
+- Go inside <code>.vscode</code> folder and open <code>launch.json</code> file
 - modify <code><b>runtimeExecutable</b></code> and point it to the PHP.exe located on your PC
 - Save the file
 
